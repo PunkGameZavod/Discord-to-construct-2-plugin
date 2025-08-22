@@ -237,8 +237,8 @@ client.login(discordToken).catch(err => {
 });
 
 // Инструкции по запуску:
-// 1. npm init -y
-// 2. npm install discord.js@latest express body-parser cors ws node-fetch
+
+
 // 3. Заменить 'YOUR_DISCORD_BOT_TOKEN' на реальный токен бота (https://discord.com/developers/applications)
 // 4. Включи Message Content Intent в настройках бота
 // 5. node server.js
